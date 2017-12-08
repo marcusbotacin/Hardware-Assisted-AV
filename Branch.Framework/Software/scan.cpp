@@ -22,7 +22,7 @@ HMODULE get_module(HANDLE hProc)
 // dump process memory to check byte pattern
 DWORD read_mem(HANDLE hProc)
 {
-	size_t bytes;
+	SIZE_T bytes;
 	DWORD buffer;
 
 	// memory region
