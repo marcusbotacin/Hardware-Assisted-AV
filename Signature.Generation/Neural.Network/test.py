@@ -2,7 +2,7 @@
 # Signature Generation
 # Neural Network component
 # Marcus Botacin - 2017
-# Federal University of Paraná (UFPR)
+# Federal University of Parana (UFPR)
 
 import pickle                                       # dump/load model
 import sys                                          # args

@@ -2,7 +2,7 @@
 # Signature Generation
 # Neural Network component
 # Marcus Botacin - 2017
-# Federal University of Paraná (UFPR)
+# Federal University of Parana (UFPR)
 
 from sklearn.neural_network import MLPClassifier    # MLP
 import os                                           # read files
