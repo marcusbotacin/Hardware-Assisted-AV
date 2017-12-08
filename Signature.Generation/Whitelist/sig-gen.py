@@ -2,7 +2,7 @@
 # Signature Generation
 # Whitelist component
 # Marcus Botacin - 2017
-# Federal University of Paraná (UFPR)
+# Federal University of Parana (UFPR)
 
 import sys  # args
 import os   # filesystem
